@@ -5,5 +5,4 @@ startbucks-vanilla-app
   ![image]([https://github.com/ParkYoungWoong/apple-ipad-app/raw/main/images/screenshot1.jpg))
 <a>
 
-
- 
+![image](https://github.com/ParkYoungWoong/apple-ipad-app/raw/main/images/screenshot1.jpg) 
